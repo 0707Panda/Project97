@@ -1,0 +1,57 @@
+#mathbtn{
+    width: 20%;
+    height: 20%;
+    background-color: lightsteelblue;
+}
+#englishbtn{
+    width: 20%;
+    height: 20%;
+    background-color: lightgreen;
+}
+#socialbtn{
+    width: 20%;
+    height: 20%;
+    background-color: lightcoral;
+}
+#sciencebtn{
+    width: 20%;
+    height: 20%;
+    background-color: lightseagreen;
+}
+
+
+#khanimg{
+    width:25%;
+    height:35%;
+}
+#khan1img{
+    width:60%;
+    height:35%;
+}
+
+#photoimg{
+    width:50%;
+    height:35%;
+}
+#photo1img{
+    width:60%;
+    height:35%;
+}
+
+#grammerlyimg{
+    width:35%;
+    height:35%;
+}
+#grammerly1img{
+    width:60%;
+    height:35%;
+}
+
+#duckstersimg{
+    width:45%;
+    height:35%;
+}
+#ducksters1img{
+    width:50%;
+    height:20%;
+}
